@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hdega\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hdega\\.nuget\\packages"
+    ]
+  }
+}
